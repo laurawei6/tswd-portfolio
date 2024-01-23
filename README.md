@@ -11,7 +11,11 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi, my name is Laura, and I'm a masters student studying Human-Computer Interaction (HCI) at Carnegie Mellon University! I originally studied biology in undergrad at Brandeis University, with the intention of becoming a doctor. However, after working as a medical assistant for a year, I realized I didn't want to go into healthcare. From there, I made a pivot to UX research; I worked as a UX researcher for a consultancy company working on products and services local and state governments. I really enjoyed my work as a UX researcher, and realized that I love learning about people and why they do the things they do!
+
+Fast forward to CMU, when I realized that I wanted to be a mixed methods UX researcher who can help make products and services that make a difference through the work that I do. I love data, but I'm not sure how to best visualize it or use it in storytelling. Because of this, I decided to take "Telling Stories with Data," a class that I believe will prepare me well for a career as a UX researcher who is able to make compelling stories and arguments for people. 
+
+In my free time when I'm not doing UX, data, or programming, I enjoy playing video games, playing volleyball, and cooking!
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
