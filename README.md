@@ -1,14 +1,10 @@
 | [home page](https://laurawei6.github.io/tswd-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Portfolio
 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 - Web page URL: https://laurawei6.github.io/tswd-portfolio/
 - This repository: https://github.com/laurawei6/tswd-portfolio/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
 Hi, my name is Laura, and I'm a masters student studying Human-Computer Interaction (HCI) at Carnegie Mellon University! I originally studied biology in undergrad at Brandeis University, with the intention of becoming a doctor. However, after working as a medical assistant for a year, I realized I didn't want to go into healthcare. From there, I made a pivot to UX research; I worked as a UX researcher for a consultancy working on products and services for local and state governments. I really enjoyed my work as a UX researcher, and realized that I love learning about people and why they do the things they do!
