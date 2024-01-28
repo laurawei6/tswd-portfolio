@@ -14,7 +14,6 @@ Fast forward to when I started my program at CMU when I realized that I wanted t
 In my free time when I'm not doing UX, data, or programming, I enjoy playing video games, playing volleyball, and cooking! Some of my favorite video games at the moment are Plateup, Valorant, and Lethal Company. Some of my favorite recipes to cook are gyuudon, tonkatsu, and san bei ji!
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
 - Best practices for creating easy to read, compelling data visualizations.
 - Best practices for telling stories using data.
