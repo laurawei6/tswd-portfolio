@@ -1,4 +1,4 @@
-| [home page](https://laurawei6.github.io/tswd-portfolio/) | [visualizing debt](visualizing-government-debt) |
+| [home page](https://laurawei6.github.io/tswd-portfolio/) | [visualizing debt](visualizing-government-debt.md) |
 
 # Telling Stories with Data
 
