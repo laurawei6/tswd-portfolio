@@ -25,7 +25,7 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 # Portfolio
 
 ## Assignment 1:
-...
+[visualizing debt](visualizing-government-debt.md)
 
 ## Assignment 3&4: 
 ...
