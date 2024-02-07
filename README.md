@@ -27,7 +27,7 @@ In my free time when I'm not doing UX, data, or programming, I enjoy playing vid
 [visualizing debt](visualizing-government-debt.md)
 
 ## Assignment 3&4: 
-...
+[critique by design](critique-by-design)
 
 ## Final project
 ...
