@@ -49,8 +49,10 @@ I’m going to be showing you two different data visualizations today. These are
 5. Is there anything you would change or do differently?
 
 After conducting user testing with two participants and doing an in-class critique with two other students in the class, I received the following feedback that I decided to incorporate into my solution:
-- Removing the data for "Other" from the visualization unless it's necessary (received from all participants)
-- Being more deliberate in color choice for the visualization since red might not be the safest color to associate with a company - P3, male, student
+- Removing the data for "Other" from the visualization unless it's necessary (
+      feedback received from all participants
+- Being more deliberate in color choice for the visualization since red might not be the safest color to associate with a company
+      P3, male, student
 - 
 
 ## Step 5: Build the solution
