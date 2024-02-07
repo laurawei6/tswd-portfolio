@@ -2,7 +2,7 @@
 
 # Critique by Design
 
-**Step 1: Choose a data visualization from MakeoverMonday**
+## Step 1: Choose a data visualization from MakeoverMonday
 The task for this assignment was to critique and redesign an existing visualization. I loooked through the Makeover Monday website for a visualization that seemed interesting to me. The visualization I chose was about Global Electric Vehicle Market Share. I listen to news podcasts and several of them mentioned the rise of BYD, a Chinese EV car brand that has been gaining market share a lot recently, and with increasing sales particularly in Europe. I thought this topic itself was interesting because I don't think many people who are from a Western audience have even heard about BYD, let alone have realized that it's gaining EV market share and is at a similar level of market share as Tesla at this point.
 
 Visualization source: [Global Electric Vehicle Market Share](https://www.counterpointresearch.com/insights/global-electric-vehicle-market-share/)
