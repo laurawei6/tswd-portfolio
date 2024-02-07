@@ -49,11 +49,13 @@ I’m going to be showing you two different data visualizations today. These are
 5. Is there anything you would change or do differently?
 
 After conducting user testing with two participants and doing an in-class critique with two other students in the class, I received the following feedback that I decided to incorporate into my solution:
-- Removing the data for "Other" from the visualization unless it's necessary (
-      feedback received from all participants
-- Being more deliberate in color choice for the visualization since red might not be the safest color to associate with a company
-      P3, male, student
-- 
+- Removing the data for "Other" from the visualization unless it's necessary (feedback received from all participants)
+- Being more deliberate in color choice for the visualization since red might not be the safest color to associate with a company (P3, male, student)
+- Using the line chart because it's easier to quickly scan for information about market shares for BYD and Tesla (P1 and 2, females, students; P4, male, student)
+
+Some feedback I didn't incorporate include:
+- Adding value labels to the visualization because it looked distracting when I tried it (P1, female, student; P3, male, student)
+- Using a gif of a pie chart to illustrate how market shares changes over time (P1, female, student)
 
 ## Step 5: Build the solution
 
