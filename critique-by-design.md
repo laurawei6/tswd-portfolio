@@ -40,7 +40,7 @@ As someone interested in UX research, testing out my solutions was my favorite p
 **Intro:**
 I’m going to be showing you two different data visualizations today. These are sketches, so I won’t tell you what I’m trying to tell with each of these. There are no right or wrong answers, so please give me your honest feedback. I will take your feedback to make the visualization better.
 
-*Counterbalance the sketches*
+[*Counterbalance the sketches*]
 
 1. In your own words, can you tell me what you think this is telling you?
 2. What, if anything, do you find surprising?
