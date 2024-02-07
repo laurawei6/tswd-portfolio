@@ -33,5 +33,22 @@ The first option I came up with is a line graph because they are often used to d
 The second option I came up with is a two series bar graph since they are also often used to describe how data changes over time. After finishing my first visualization redesign draft, I realized that the presence of and "Other" on the visualization wasn't necessary. It was distracting from BYD and Tesla data, and because the market share of "Other" is so much higher than that of BYD and Tesla, including "Other" on the visualization makes the y-axis values stretched out to the point where it's hard to see the trend for the two companies of interest. In addition, since the market share values are for discrete points in time, using a bar chart might be technically more accurate than using a line graph because it connects discrete points of data.
 
 ## Step 4: Test the solutions
+As someone interested in UX research, testing out my solutions was my favorite part of this process! I first created a protocol that I would follow in my interviews with two participants. 
 
-Step 5: Build the solution
+### The protocol I developed is below: 
+
+**Intro:**
+I’m going to be showing you two different data visualizations today. These are sketches, so I won’t tell you what I’m trying to tell with each of these. There are no right or wrong answers, so please give me your honest feedback. I will take your feedback to make the visualization better.
+
+*Counterbalance the sketches*
+
+1. In your own words, can you tell me what you think this is telling you?
+2. What, if anything, do you find surprising?
+3. What, if anything, do you find confusing?
+4. Who do you think is the intended audience for this?
+5. Is there anything you would change or do differently?
+
+
+## Step 5: Build the solution
+
+<div class='tableauPlaceholder' id='viz1707278825676' style='position: relative'><noscript><a href='#'><img alt='BYD market share of EV industry has caught up to Tesla&#39;sSource: https:&#47;&#47;www.counterpointresearch.com&#47;insights&#47;global-electric-vehicle-market-share&#47; ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BY&#47;BYDmarketshare&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BYDmarketshare&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BY&#47;BYDmarketshare&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1707278825676');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
