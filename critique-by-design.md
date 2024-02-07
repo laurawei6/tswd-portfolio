@@ -7,7 +7,7 @@ The task for this assignment was to critique and redesign an existing visualizat
 
 Visualization source: [Global Electric Vehicle Market Share](https://www.counterpointresearch.com/insights/global-electric-vehicle-market-share/)
 
-Visualization I'm redesigning: 
+### Visualization I'm redesigning: 
 ![Global Electric Vehicle Market Share Visualization](Global-EV-market-share-Q3-2023.png)
 
 Step 2: Critique the data visualization
