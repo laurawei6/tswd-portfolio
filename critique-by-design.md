@@ -3,7 +3,7 @@
 # Critique by Design
 
 ## Step 1: Choose a data visualization from MakeoverMonday
-The task for this assignment was to critique and redesign an existing visualization. I loooked through the Makeover Monday website for a visualization that seemed interesting to me. The visualization I chose was about Global Electric Vehicle Market Share. I listen to news podcasts and several of them mentioned the rise of BYD, a Chinese EV car brand that has been gaining market share a lot recently, and with increasing sales particularly in Europe. I thought this topic itself was interesting because I don't think many people who are from a Western audience have even heard about BYD, let alone have realized that it's gaining EV market share and is at a similar level of market share as Tesla at this point.
+The task for this assignment was to critique and redesign an existing visualization. I loooked through the Makeover Monday website for a visualization that seemed interesting to me. The visualization I chose was about Global Electric Vehicle (EV) Market Share. It shows how much of a hold on the EV industry different companies have between quarter 4 of 2021 until quarter 3 of 2023. I listen to news podcasts and several of them mentioned the rise of BYD, a Chinese EV car brand that has been gaining market share a lot recently, and with increasing sales particularly in Europe. I thought this topic itself was interesting because I don't think many people who are from a Western audience have even heard about BYD, let alone have realized that it's gaining EV market share and is at a similar level of market share as Tesla at this point.
 
 Visualization source: [Global Electric Vehicle Market Share](https://www.counterpointresearch.com/insights/global-electric-vehicle-market-share/)
 
@@ -19,15 +19,19 @@ The primary audience for this visualization is people who are interested in tech
 
 I didn't realize that I needed to interpret both the visualization and text underneath it in order to get the full picture. Putting more emphasis on the brands of interest (Tesla and BYD) will help illustrate the point better that BYD's market share of the EV industry is increasing, since that is not easily seen in the current visualization. This will help create a story out of a visualization that is right now difficult to interpret.
 
-## Step 3: Sketch out a solution
+## Step 3: Sketch out solutions
 I then created two different potential ways to improve this visualization. I wanted the redesigned visualization to accomplish two things:
 - Make it easier to understand that BYD's market share of the EV industry is increasing while Tesla's is decreasing
 - Make it easy to compare market shares between BYD and Tesla
 
-The first option I came up with is a line graph. 
+### Solution option 1
+![Redesign Draft 1](Redesign-draft-1.jpeg)
+The first option I came up with is a line graph because they are often used to describe how data changes over time. I also decided to lump in VW market share within "Other" because I wanted to focus on the comparison of the market shares of BYD and Tesla. Because of this, I made the color of the line for "Other" gray in order to draw people's attention to BYD and Tesla.
 
-I then began to explore potential ways to improve this visualization. The first sketch I made was a stacked bar chart. Although I mentioned in my critique that I would only include either the 18 or 15 year old data, I wanted to try to see if there was a way I could display both without it being confusing, which is why I chose a stacked bar chart. This format made it clearer to me that the data for the 15 year old children was a segment of the 18 year old data. I also removed the 'Least developed countries' subset, since I did not think it added value to the original visualization, and instead of having the world average data displayed as another subset, I decided to draw two dashed lines depicting these values. I chose
+### Solution option 2
+![Redesign Draft 2](Redesign-draft-2.jpeg)
+The first option I came up with is a line graph because they are often used to describe how data changes over time. I also decided to lump in VW market share within "Other" because I wanted to focus on the comparison of the market shares of BYD and Tesla. Because of this, I made the color of the line for "Other" gray in order to draw people's attention to BYD and Tesla.
 
-## Step 4: Test the solution
+## Step 4: Test the solutions
 
 Step 5: Build the solution
