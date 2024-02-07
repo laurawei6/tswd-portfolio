@@ -30,7 +30,7 @@ The first option I came up with is a line graph because they are often used to d
 
 ### Solution option 2
 ![Redesign Draft 2](Redesign-draft-2.jpeg)
-The first option I came up with is a line graph because they are often used to describe how data changes over time. I also decided to lump in VW market share within "Other" because I wanted to focus on the comparison of the market shares of BYD and Tesla. Because of this, I made the color of the line for "Other" gray in order to draw people's attention to BYD and Tesla.
+The second option I came up with is a two series bar graph since they are also often used to describe how data changes over time. After finishing my first visualization redesign draft, I realized that the presence of and "Other" on the visualization wasn't necessary. It was distracting from BYD and Tesla data, and because the market share of "Other" is so much higher than that of BYD and Tesla, including "Other" on the visualization makes the y-axis values stretched out to the point where it's hard to see the trend for the two companies of interest. In addition, since the market share values are for discrete points in time, using a bar chart might be technically more accurate than using a line graph because it connects discrete points of data.
 
 ## Step 4: Test the solutions
 
