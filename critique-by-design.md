@@ -19,10 +19,15 @@ The primary audience for this visualization is people who are interested in tech
 
 I didn't realize that I needed to interpret both the visualization and text underneath it in order to get the full picture. Putting more emphasis on the brands of interest (Tesla and BYD) will help illustrate the point better that BYD's market share of the EV industry is increasing, since that is not easily seen in the current visualization. This will help create a story out of a visualization that is right now difficult to interpret.
 
-## Step 3 & 4: Sketch & Test out a solution
+## Step 3: Sketch out a solution
 I then created two different potential ways to improve this visualization. I wanted the redesigned visualization to accomplish two things:
-- Make it easier to 
+- Make it easier to understand that BYD's market share of the EV industry is increasing while Tesla's is decreasing
+- Make it easy to compare market shares between BYD and Tesla
+
+The
 
 I then began to explore potential ways to improve this visualization. The first sketch I made was a stacked bar chart. Although I mentioned in my critique that I would only include either the 18 or 15 year old data, I wanted to try to see if there was a way I could display both without it being confusing, which is why I chose a stacked bar chart. This format made it clearer to me that the data for the 15 year old children was a segment of the 18 year old data. I also removed the 'Least developed countries' subset, since I did not think it added value to the original visualization, and instead of having the world average data displayed as another subset, I decided to draw two dashed lines depicting these values. I chose
+
+## Step 4: Test the solution
 
 Step 5: Build the solution
