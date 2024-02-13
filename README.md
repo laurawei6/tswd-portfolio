@@ -30,4 +30,4 @@ In my free time when I'm not doing UX, data, or programming, I enjoy playing vid
 [critique by design](critique-by-design)
 
 ## Final project
-...
+[final project I](final-project-part-one)
