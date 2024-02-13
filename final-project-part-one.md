@@ -7,6 +7,10 @@ Text here...
 
 For my major project, I will be working on a story about the unjust implementation of the death penalty in the United States. My capstone project for my MHCI program is about the same topic, and I'm going to be specifically working with the same dataset that my client, the Death Penalty Information Center (DPIC) is providing its users for their research. I am both interested in the death penalty space, and think this is a great opportunity to explore the data as some key stakeholders of DPIC might. This topic is sensitive because of people have different political, ethical, moral, and religious viewpoints on it, but I will be focusing on using data to support the claim that the practice of the death penalty as we use it today is unjust.
 
+The audience for this project is anyone who consumes news articles. I think that this topic, while it is touchy, is one that a lot of people can gravitate to because it's related to so many other topics. Whether it's racism or police brutality, or an unfair justice system, there are pieces of this story that most people can relate to or be interested in. Because of the many different angles I can address this topic, I will work on narrowing down my story to one that's concentrated but touches on something that most people can relate to and understand.
+
+
+ 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
