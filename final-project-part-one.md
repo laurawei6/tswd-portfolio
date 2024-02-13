@@ -5,7 +5,7 @@ Text here...
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+For my major project, I will be working on a story about the unjust implementation of the death penalty in the United States. My capstone project for my MHCI program is about the same topic, and I'm going to be specifically working with the same dataset that my client, the Death Penalty Information Center (DPIC) is providing its users for their research. I am both interested in the death penalty space, and think this is a great opportunity to explore the data as some key stakeholders of DPIC might. This topic is sensitive because of people have different political, ethical, moral, and religious viewpoints on it, but I will be focusing on using data to support the claim that the practice of the death penalty as we use it today is unjust.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
