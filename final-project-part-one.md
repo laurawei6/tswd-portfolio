@@ -8,7 +8,7 @@ The audience for this project is anyone who consumes news articles. I think that
 I intend to start with showing historical information on how the death penalty perpetuates racism after the abolition of slavery, move onto showing its ties with police brutality and an unfair justice system, and end it with information showing that we can make a difference through using our voices to end the practice of the death penalty.
 ![Intended Story Arc](story_arc.jpeg)
  
-## Initial sketches
+# Initial sketches
 ![Death Penalty Perpetuates Racism](Sketch-racial_bias.jpeg)
 I intend to start with a visualization that shows the extent to which the death penalty is used against Black people, and is still as such over time.
 
