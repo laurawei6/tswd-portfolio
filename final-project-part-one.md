@@ -10,20 +10,24 @@ I intend to start with showing historical information on how the death penalty p
  
 ## Initial sketches
 ![Death Penalty Perpetuates Racism](Sketch-racial_bias.jpeg)
+I intend to start with a visualization that shows the extent to which the death penalty is used against Black people, and is still as such over time.
 
+![Death Penalty Unjust](Sketch-exonerations.jpeg)
+I will then move into showing data that shows that the application of the death penalty is unjust. One way to show this would be to show that as many as 1 in 8 people who are sentenced to death row are exonerated.
 
-
+![Death Penalty Lobbying Opportunities](Sketch-lobbying.jpeg)
+The death penalty is not a very money grabbing issue like how some other topics are. Because of this, there is opportunity to lobby policymakers to abolish the death penalty. A visualization of how much lobbying is done for the death penalty compared to other topics might be a compelling piece of data for this.
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+The main piece of data I will be using is the Death Penalty Census Database that is available from the Death Penalty Information Center (DPIC)'s website. This is a very comprehesive database of all death row cases in the US since 1972. I will be using this to 
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+|  Death Penalty Census Database  |  https://deathpenaltyinfo.org/database/sentences  |    All death row cases in the US since 1972   |
 |      |     |             |
 |      |     |             |
 
