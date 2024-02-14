@@ -19,17 +19,14 @@ I will then move into showing data that shows that the application of the death 
 The death penalty is not a very money grabbing issue like how some other topics are. Because of this, there is opportunity to lobby policymakers to abolish the death penalty. A visualization of how much lobbying is done for the death penalty compared to other topics might be a compelling piece of data for this.
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+The main piece of data I will be using is the Death Penalty Census Database that is available from the Death Penalty Information Center (DPIC)'s website. This is a very comprehesive database of all death row cases in the US since 1972. I will be using this to find trends based on race, location of death penalty sentencing, exoneration data, and more. It's also going to be relevant to me to see what kind of data I can get from this database, and what other gaps I may need to fill with data from other sources.
 
-The main piece of data I will be using is the Death Penalty Census Database that is available from the Death Penalty Information Center (DPIC)'s website. This is a very comprehesive database of all death row cases in the US since 1972. I will be using this to 
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+In addition, I plan on using data from lobbying websites to see how much money is already used in lobbying for different issues. In this way, I hope to illustrate the potential that individual donors can have in lobbying for abolition of the death penalty.
 
 | Name | URL | Description |
 |------|-----|-------------|
 |  Death Penalty Census Database  |  https://deathpenaltyinfo.org/database/sentences  |    All death row cases in the US since 1972   |
-|      |     |             |
-|      |     |             |
+|   Lobbying Data   |  https://www.opensecrets.org/federal-lobbying/summary  |   Total amount of lobbying money spent by lobbyists to congress and federal agencies   |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
