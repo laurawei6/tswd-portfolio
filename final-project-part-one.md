@@ -29,6 +29,4 @@ In addition, I plan on using data from lobbying websites to see how much money i
 |   Lobbying Data   |  https://www.opensecrets.org/federal-lobbying/summary  |   Total amount of lobbying money spent by lobbyists to congress and federal agencies   |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan on exploring the data further in Tableau viewing different variables that might be of interest. For example, if location is important in noting a biased implementation of the death penalty, I will incorporate that into my story. In addition to census data and lobbying data, I might look into important historical events to see if any public sentiment had an effect on death penalty sentences over the years. This was good advice I got from the in class critique session so I plan to explore it to see if it should be incorporated into my project. For the final project, I will use shorthand as my medium.
