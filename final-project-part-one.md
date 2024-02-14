@@ -9,9 +9,10 @@ I intend to start with showing historical information on how the death penalty p
 ![Intended Story Arc](IMG_909813646CD3-1.jpeg)
  
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+![Death Penalty Perpetuates Racism](Sketch - racial bias.jpeg)
 
-Text here...
+
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
