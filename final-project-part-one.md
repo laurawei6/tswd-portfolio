@@ -6,7 +6,7 @@ For my major project, I will be working on a story about the unjust implementati
 The audience for this project is anyone who consumes news articles. I think that this topic, while it is touchy, is one that a lot of people can gravitate to because it's related to so many other topics. Whether it's racism or police brutality, or an unfair justice system, there are pieces of this story that most people can relate to or be interested in. Because of the many different angles I can address this topic, I will work on narrowing down my story to one that's concentrated but touches on something that most people can relate to and understand.
 
 I intend to start with showing historical information on how the death penalty perpetuates racism after the abolition of slavery, move onto showing its ties with police brutality and an unfair justice system, and end it with information showing that we can make a difference through using our voices to end the practice of the death penalty.
-![Intended Story Arc](story-arc.jpeg)
+![Intended Story Arc](story_arc.jpeg)
  
 ## Initial sketches
 ![Death Penalty Perpetuates Racism](Sketch-racial_bias.jpeg)
