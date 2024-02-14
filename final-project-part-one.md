@@ -9,7 +9,7 @@ I intend to start with showing historical information on how the death penalty p
 ![Intended Story Arc](IMG_909813646CD3-1.jpeg)
  
 ## Initial sketches
-![Death Penalty Perpetuates Racism](Sketch - racial bias.jpeg)
+![Death Penalty Perpetuates Racism](Sketch_-_racial_bias.jpeg)
 
 
 
