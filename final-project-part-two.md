@@ -68,7 +68,7 @@ P3: 24, female, MHCI student, not American but interested in social justice glob
 |-------------------------|--------------------------------|-------------|-------------|
 | What is the main point of this story? | Death penalty is unjust for a lot of people |  Death penalty is wrong and not fair |     Death penalty has changed a lot over the years and is unfair for Black people in particular  |
 | What are the points used to support this main point? |  "Many more Black people are given the death penalty than white people. This is similar to what is happening with the rest of the justice system, huh" |  It seems like the death penalty is applied inconsistently. Black people are much more likely to be sentenced to death it seems like |  It looks like there are injustices from the race perspective and also location. It seems like a few states have the highest number of sentences.  |
-| What is this visualization telling you? |  This first one is just telling me the total number of death sentences, it looks like from 1972 to 2021. The second one is telling me that most people who were sentenced to death were Black. The third one is saying that the number of   |             |             |
+| What is this visualization telling you? |  This first one is just telling me the total number of death sentences, it looks like from 1972 to 2021. The second one is telling me that most people who were sentenced to death were Black. The third one is showing the number of death sentences per state, and the fourth one is similar. It shows the number of death sentences per county? Or some small region per state. Oh! but there's a difference in time period between the two location maps. Why is that? |  The first one is showing the total number of death sentences in the US. The second one is showing that most people who were sentenced to death were Black. This is sad, but honestly not that surprising. The third one shows the number of death sentences per state. The fourth one shows the number of death sentences per county. It's a little hard to read though. | The first one is talking about the total number of death sentences in the US. The second one is about the races of people who are sentenced to death. It looks like there's 3 main races included in here, with Black and White people similar in proportion? I'm not sure how to read this, to be honest. The third one is about the number of death sentences per state. The fourth one is about the number of death sentences per county, I think, but also for recent times. |
 | What are your thoughts on the flow of this story? | I thought the story made sense. I liked how there was a use of comparing different states to each other. It was a little confusing though, that the county map used a different time period than the rest of the graphs, though. | I think because I'm in this space I understand what you're trying to say that the death penalty is unjust in practice. However, to make a more impactful story, maybe you can talk about innocence of the people who are on death row. That's a big data point that always gets people to pay attention to death penalty related stories like this one. | I really liked the overall story! I think more emphasis on the reasons might be better. For example, having two graphs to say the same thing: that the location of where death sentences are made is arbitrary, is probably not needed. What other things are there to talk about? Maybe innocence? Maybe public sentiment towards the death penalty? |
 
 
@@ -88,9 +88,3 @@ Text here!
 > ...include any final thoughts you have here. 
 
 Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
