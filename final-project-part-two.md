@@ -60,9 +60,9 @@ My goals for the story was to understand if people really understood the story I
 |  Thoughts on the overall flow of the story  |  What are your thoughts on the flow of this story?  |
 
 ## Interview findings
-P1: 24, female, MHCI student, interested in social justice in general
-P2: 22, female, MHCI student, passionate about criminal justice reform
-P3: 24, female, MHCI student, not American but interested in social justice globally
+P1: 24, female, MHCI student, interested in social justice in general  
+P2: 22, female, MHCI student, passionate about criminal justice reform  
+P3: 24, female, MHCI student, not American but interested in social justice globally  
 
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
