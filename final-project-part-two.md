@@ -73,15 +73,12 @@ P3: 24, female, MHCI student, not American but interested in social justice glob
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
+| Overall theme of the story is strong and consistent | Maintain the same flow of information. |
+| Visualization 2 showing the race breakdown of people who are sentenced to death is confusing | Figure out ways to better illustrate this race breakdown. Possibly work with a line graph instead of an area graph so it's easier to compare between races. |
+|    |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
