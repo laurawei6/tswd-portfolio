@@ -48,14 +48,10 @@ Wireframe 4: map of death sentences throughout the US from 2000 to 2021
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+My target audience is people that are a part of the general public who are interested in poilcies surrounding the death penalty, criminal justice, or social justice in general. I understand that the story I am trying to tell is more broad than academic papers written on the impact of the death penalty on crime prevention or deterrance in general, so being able to cater to a larger, more novice-to-data audience was important for me.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+My goals for the story was to understand if people really understood the story I was telling: that the death penalty has a longfrought history of injustice. The topic itself has a lot of information that supports this, so being able to condense it down to just a few points is difficult.
 
 | Goal | Questions to Ask |
 |------|------------------|
