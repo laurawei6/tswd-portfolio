@@ -55,24 +55,21 @@ My goals for the story was to understand if people really understood the story I
 
 | Goal | Questions to Ask |
 |------|------------------|
-|  Comprehension of topic  |  What is the main point of this story? 
-What are the points used to support this main point?  |
-|  Understanding of   |                  |
-|      |                  |
-
-
-Text here!
+|  Comprehension of topic  |  What is the main point of this story? What are the points used to support this main point?  |
+|  Understanding of the visualizations |  What is this visualization telling you? |
+|  Thoughts on the overall flow of the story  |  What are your thoughts on the flow of this story?  |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+P1: 24, female, MHCI student, interested in social justice in general
+P2: 22, female, MHCI student, passionate about criminal justice reform
+P3: 24, female, MHCI student, not American but interested in social justice globally
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| What is the main point of this story? | Death penalty is unjust for a lot of people |  Death penalty is wrong and not fair |     Death penalty has changed a lot over the years and is unfair for Black people in particular  |
+| What are the points used to support this main point? |    |             |             |
+| What is this visualization telling you? |                                |             |             |
+| What are your thoughts on the flow of this story? | 
 
 
 # Identified changes for Part III
