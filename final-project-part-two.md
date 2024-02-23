@@ -79,9 +79,7 @@ P3: 24, female, MHCI student, not American but interested in social justice glob
 | Overall theme of the story is strong and consistent | Maintain the same flow of information. |
 | Visualization 2 showing the race breakdown of people who are sentenced to death is confusing | Figure out ways to better illustrate this race breakdown. Possibly work with a line graph instead of an area graph so it's easier to compare between races. |
 |  Using inconsistent time periods is confusing  | I will probably stick to the whole time period provided in the data (from 1972 to 2021), or change all the data to be consistent for a certain amount of time (2000-2021 for example). This will depend on what my goals are: to show historical unjust application of the death penalty, or possibly to show that the death penalty is unjust, even to this day. |
-|    |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|  Distinction between states and counties is unclear  |  I will probably remove the distinction and instead focus on counties, or make the emphasis on states. This will be fleshed out after playing more with the data.  |
+| Reasoning provided could be stronger with different examples |  Include data about exonerations/innocence. Relate this data to the main point that the application of the death penalty is unjust.  |
 
-> ...include any final thoughts you have here. 
-
-Text here!
+Overall, I felt that I had trouble creating a story with data. It's difficult to be succiinct while using data! I'm glad that the main story came through though, and I will be working on making the visualizations vital to the story so that they feel like they are a necessary addition to the story and not just something tacked onto the story.
