@@ -67,7 +67,7 @@ P3: 24, female, MHCI student, not American but interested in social justice glob
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | What is the main point of this story? | Death penalty is unjust for a lot of people |  Death penalty is wrong and not fair |     Death penalty has changed a lot over the years and is unfair for Black people in particular  |
-| What are the points used to support this main point? |    |             |             |
+| What are the points used to support this main point? |  "Many more Black people are given the death penalty than white people. This is similar to what is happening with the rest of the justice system, huh" |  It seems like the death penalty is applied inconsistently. Black people are much more likely to be sentenced to death it seems like |  It looks like there are injustices from the race perspective and also location. It seems like a few states have the highest number of sentences.  |
 | What is this visualization telling you? |                                |             |             |
 | What are your thoughts on the flow of this story? | 
 
