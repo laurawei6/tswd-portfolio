@@ -55,8 +55,9 @@ My goals for the story was to understand if people really understood the story I
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
+|  Comprehension of topic  |  What is the main point of this story? 
+What are the points used to support this main point?  |
+|  Understanding of   |                  |
 |      |                  |
 
 
