@@ -78,8 +78,8 @@ P3: 24, female, MHCI student, not American but interested in social justice glob
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Overall theme of the story is strong and consistent | Maintain the same flow of information. |
 | Visualization 2 showing the race breakdown of people who are sentenced to death is confusing | Figure out ways to better illustrate this race breakdown. Possibly work with a line graph instead of an area graph so it's easier to compare between races. |
+|  Using inconsistent time periods is confusing  | I will probably stick to the whole time period provided in the data (from 1972 to 2021), or change all the data to be consistent for a certain amount of time (2000-2021 for example). This will depend on what my goals are: to show historical unjust application of the death penalty, or possibly to show that the death penalty is unjust, even to this day. |
 |    |                                                                                 |
-|                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
 > ...include any final thoughts you have here. 
