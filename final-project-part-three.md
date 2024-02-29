@@ -4,11 +4,9 @@
 [The death penalty in the US: An arbitrary and unjust practice](https://carnegiemellon.shorthandstories.com/the-death-penalty-in-the-us-arbitrary-and-unjust/index.html)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+The original vision I had was showing the history of the death penalty and how its current application was arbitrary, unjust, and simply perpetuating current injustices within the criminal justice system. However, I was having trouble portraying this with the current data that I was able to find. This made my part 2 feel a bit disorganized, and even though my user research sessions helped me with the specific visualizations that I created for the assignment, I think that I missed necessary data to tell an adequate story about the perpetuation of racism done through the death penalty.
 
-Text here!
-
-The original vision I had was showing the history of the death penalty and its application. 
+I pivoted after finding information about the top reasons why people in the US are supporters of the death penalty. In my research I have done for my capstone, it feels like a lot of what my client is doing is providing facts and data that help dispel misconceptions about the death penalty. The data that surrounds arguments against the death penalty was therefore data that I could readily find and use to help create a story about what people think is justice. This, I felt like, created a strong narrative that interwove data at each point.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
