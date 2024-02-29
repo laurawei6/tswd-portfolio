@@ -8,6 +8,8 @@
 
 Text here!
 
+The original vision I had was showing the history of the death penalty and its application. 
+
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
@@ -20,8 +22,6 @@ Text here!
 
 ## References
 Link to the sources used in my shorthand website [here](https://carnegiemellon.shorthandstories.com/the-death-penalty-in-the-us-arbitrary-and-unjust/index.html#group-section-References-XRIGOaHzWw)
-
-Text here!
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
