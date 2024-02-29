@@ -9,19 +9,14 @@ The original vision I had was showing the history of the death penalty and how i
 I pivoted after finding information about the top reasons why people in the US are supporters of the death penalty. In my research I have done for my capstone, it feels like a lot of what my client is doing is providing facts and data that help dispel misconceptions about the death penalty. The data that surrounds arguments against the death penalty was therefore data that I could readily find and use to help create a story about what people think is justice. This, I felt like, created a strong narrative that interwove data at each point.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
-
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
+My audience for my final data story is the general public, but more with an emphasis on people who are probably on the fence about the death penalty or who already are somewhat anti-death penalty. From my research for my capstone project and through who I talked to for part 2, it seemed clear that my story would resonate with people who are already leaning anti-death penalty. People who are staunchly pro death penalty have trouble recognizing other arguments that don't align with their beliefs, so my story wouldn't really convince them anyway. Including more of an emphasis on dispelling misconceptions about the death penalty was also a technique I used in order to target more people who are on the fence. 
 
 ## References
 Link to the sources used in my shorthand website [here](https://carnegiemellon.shorthandstories.com/the-death-penalty-in-the-us-arbitrary-and-unjust/index.html#group-section-References-XRIGOaHzWw)
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+I thought this project itself was really powerful in showing how data and storytelling can be married to create a strong narrative. I would have liked more time to look up more information about historical data and racial inequities, so in the future I might look to find that information myself. Racial disparity in the criminal justice system tends to be a very delicate subject for people to talk about, and because of that, sometimes making a case about racial injustice only works for people who already acknowledge there are racial injustices in the first place. Incorporating a story using this type of data therefore might require more planning and strategy if I still try to reach people who are on the fence about the death penalty.
 
-Text here!
+I was most excited about showing data about the arbitrariness of the death penalty. That's where I wanted to center my entire story at first, which is why part 2 was mostly focused around showing the arbitrariness by state and county. However, I think cutting it down more to focus on a particular state made my story more compelling. The Tableau for showing the number of death sentences per county was also tricky to get working right, so I was VERY excited when it worked well!
+
+All in all, I really enjoyed learning about different visualizations and how I could best utilize them in this project. I think centering my project on common misconceptions about the death penalty made it stronger.
