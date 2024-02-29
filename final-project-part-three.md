@@ -19,7 +19,7 @@ Text here!
 Text here!
 
 ## References
-Link to the sources used in my shorthand website: [https://carnegiemellon.shorthandstories.com/the-death-penalty-in-the-us-arbitrary-and-unjust/index.html#group-section-References-XRIGOaHzWw]
+Link to the sources used in my shorthand website: (https://carnegiemellon.shorthandstories.com/the-death-penalty-in-the-us-arbitrary-and-unjust/index.html#group-section-References-XRIGOaHzWw)
 
 Text here!
 
