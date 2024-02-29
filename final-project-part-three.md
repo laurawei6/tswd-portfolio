@@ -19,7 +19,7 @@ Text here!
 Text here!
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+Link to the sources used in my shorthand website: [https://carnegiemellon.shorthandstories.com/the-death-penalty-in-the-us-arbitrary-and-unjust/index.html#group-section-References-XRIGOaHzWw]
 
 Text here!
 
